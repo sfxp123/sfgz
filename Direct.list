@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,oppo.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,api.southerly.top
 DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,xg.frp.one
+DOMAIN,xg.frp.one
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -18,6 +20,7 @@ DOMAIN-KEYWORD,southerly
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,156.226.172.243,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
