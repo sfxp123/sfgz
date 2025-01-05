@@ -20,7 +20,7 @@ DOMAIN-KEYWORD,southerly
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,156.226.172.243,no-resolve
+IP-CIDR,156.226.172.243/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
