@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,api.southerly.top
 DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,xg.frp.one
 DOMAIN,xg.frp.one
+DOMAIN,deepseek.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
