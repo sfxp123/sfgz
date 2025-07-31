@@ -17,6 +17,8 @@ DOMAIN,deepseek.com
 DOMAIN,liblib.art
 DOMAIN,m.jd.com
 DOMAIN,jd.com
+DOMAIN,api.aibh.site
+DOMAIN,aibh.site
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
