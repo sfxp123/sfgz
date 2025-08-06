@@ -19,6 +19,7 @@ DOMAIN,m.jd.com
 DOMAIN,jd.com
 DOMAIN,api.aibh.site
 DOMAIN,aibh.site
+DOMAIN,container.x-gpu.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
