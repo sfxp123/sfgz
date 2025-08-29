@@ -20,6 +20,9 @@ DOMAIN,jd.com
 DOMAIN,api.aibh.site
 DOMAIN,aibh.site
 DOMAIN,container.x-gpu.com
+DOMAIN,cnb.space
+DOMAIN,cnb.run
+DOMAIN,cloudstudio.work
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
