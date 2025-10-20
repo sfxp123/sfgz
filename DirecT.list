@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,cnb.run
 DOMAIN-SUFFIX,cloudstudio.work
 DOMAIN-SUFFIX,manmcz.com
 DOMAIN-SUFFIX,cephalon.cloud
+DOMAIN-SUFFIX,cloudstudio.club
+DOMAIN-SUFFIX,cloudstudio.net
 DOMAIN,xg.frp.one
 DOMAIN,deepseek.com
 DOMAIN,liblib.art
@@ -32,6 +34,7 @@ DOMAIN,cloudstudio.work
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,southerly
+DOMAIN-KEYWORD,cloudstudio
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
